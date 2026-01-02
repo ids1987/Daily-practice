@@ -1,2 +1,22 @@
 Test fork/NexpertIdrees/
 
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML models / outputs
+*.pkl
+*.h5
+*.pt
+
+# OS
+.DS_Store
+
+AIML-Batch2/
